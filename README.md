@@ -1,6 +1,4 @@
-## How to Run the Application
-
-Follow these steps to get the application running on your local machine.
+## To Run the Application
 
 ### Prerequisites
 
